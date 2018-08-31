@@ -1,0 +1,14 @@
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder.DataAccess\bin\Debug\RssMatchRecorder.DataAccess.dll
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder.DataAccess\bin\Debug\RssMatchRecorder.DataAccess.pdb
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.dll
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.pdb
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\bin\Debug\RssMatchRecorder.DataAccess.dll
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\bin\Debug\RssMatchRecorder.DataAccess.pdb
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.csprojResolveAssemblyReference.cache
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.dll
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.pdb
+C:\dev\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\bin\Debug\RssMatchRecorder.DataAccess.dll
+C:\dev\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\bin\Debug\RssMatchRecorder.DataAccess.pdb
+C:\dev\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.dll
+C:\dev\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.pdb
+C:\dev\RssMatchRecorder\RssMatchRecorder\RssMatchRecorder.DataAccess\obj\Debug\RssMatchRecorder.DataAccess.csprojResolveAssemblyReference.cache

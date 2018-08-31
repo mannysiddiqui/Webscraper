@@ -1,0 +1,2 @@
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\bin\Debug\RssMatchRecorder.exe.config
+C:\dev\anyap-tools\RssMatchRecorder\RssMatchRecorder\bin\Debug\RssMatchRecorderService.exe.config
